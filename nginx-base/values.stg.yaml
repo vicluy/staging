@@ -1,0 +1,6 @@
+name: nginx-stg
+scale: 3
+tag: "1.17"
+port: 80
+domain: stg.example.com
+ingressname: ingress-namebased-stg
